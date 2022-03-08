@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @audrandessaint
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m most intrested in computer science related to art : CGI, audio and image processing, video games..
+- 🎓 CentraleSupélec
 - 📫 a-dessaint@orange.fr
 
 <!---
