@@ -3,8 +3,8 @@
 - 🎓 CentraleSupélec
 - 📫 a-dessaint@orange.fr
 
-# I'M NOT ACTIVE ON GITHUB FOR NOW, MY PROJECTS ARE HOSTED ON GITLAB
-my gitlab profile: https://gitlab.com/audrandessaint
+# I'm not active on github for now, my projects are hosted on GITLAB 
+## my gitlab profile: https://gitlab.com/audrandessaint
 
 <!---
 audrandessaint/audrandessaint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
